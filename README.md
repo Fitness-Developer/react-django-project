@@ -1,5 +1,5 @@
 **Stack:**
-
+- Django(DRF)
 - ReactJS + хуки
 - React Router
 - Axios
